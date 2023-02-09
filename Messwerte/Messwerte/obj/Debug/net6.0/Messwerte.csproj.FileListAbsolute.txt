@@ -1,0 +1,15 @@
+C:\Users\hoffm\Desktop\Messwerte\Messwerte\Messwerte\bin\Debug\net6.0\Messwerte.exe
+C:\Users\hoffm\Desktop\Messwerte\Messwerte\Messwerte\bin\Debug\net6.0\Messwerte.deps.json
+C:\Users\hoffm\Desktop\Messwerte\Messwerte\Messwerte\bin\Debug\net6.0\Messwerte.runtimeconfig.json
+C:\Users\hoffm\Desktop\Messwerte\Messwerte\Messwerte\bin\Debug\net6.0\Messwerte.dll
+C:\Users\hoffm\Desktop\Messwerte\Messwerte\Messwerte\bin\Debug\net6.0\Messwerte.pdb
+C:\Users\hoffm\Desktop\Messwerte\Messwerte\Messwerte\obj\Debug\net6.0\Messwerte.csproj.AssemblyReference.cache
+C:\Users\hoffm\Desktop\Messwerte\Messwerte\Messwerte\obj\Debug\net6.0\Messwerte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoffm\Desktop\Messwerte\Messwerte\Messwerte\obj\Debug\net6.0\Messwerte.AssemblyInfoInputs.cache
+C:\Users\hoffm\Desktop\Messwerte\Messwerte\Messwerte\obj\Debug\net6.0\Messwerte.AssemblyInfo.cs
+C:\Users\hoffm\Desktop\Messwerte\Messwerte\Messwerte\obj\Debug\net6.0\Messwerte.csproj.CoreCompileInputs.cache
+C:\Users\hoffm\Desktop\Messwerte\Messwerte\Messwerte\obj\Debug\net6.0\Messwerte.dll
+C:\Users\hoffm\Desktop\Messwerte\Messwerte\Messwerte\obj\Debug\net6.0\refint\Messwerte.dll
+C:\Users\hoffm\Desktop\Messwerte\Messwerte\Messwerte\obj\Debug\net6.0\Messwerte.pdb
+C:\Users\hoffm\Desktop\Messwerte\Messwerte\Messwerte\obj\Debug\net6.0\Messwerte.genruntimeconfig.cache
+C:\Users\hoffm\Desktop\Messwerte\Messwerte\Messwerte\obj\Debug\net6.0\ref\Messwerte.dll
