@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hoffm\\Desktop\\Messwerte\\Messwerte\\Messwerte\\Messwerte.csproj",
+      "projectUniqueName": "C:\\Users\\hoffm\\Source\\Repos\\Messwerte\\Messwerte\\Messwerte\\Messwerte.csproj",
       "projectName": "Messwerte",
-      "projectPath": "C:\\Users\\hoffm\\Desktop\\Messwerte\\Messwerte\\Messwerte\\Messwerte.csproj",
+      "projectPath": "C:\\Users\\hoffm\\Source\\Repos\\Messwerte\\Messwerte\\Messwerte\\Messwerte.csproj",
       "packagesPath": "C:\\Users\\hoffm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hoffm\\Desktop\\Messwerte\\Messwerte\\Messwerte\\obj\\",
+      "outputPath": "C:\\Users\\hoffm\\Source\\Repos\\Messwerte\\Messwerte\\Messwerte\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hoffm\\AppData\\Roaming\\NuGet\\NuGet.Config",
